@@ -52,4 +52,7 @@ The service account for the service must have rights to both run sql agent jobs 
 *Make sure you provide the credentials correctly.*
 
 ## External Libraries / Packages
-This service makes use of the Newtonsoft.Json library to handle json files.
+* [Newtonsoft.Json](https://www.newtonsoft.com/json) library.
+
+## Developed on
+Microsoft Visual Studio Professional 2015 Version 14.0.25425.01 Update 3.
